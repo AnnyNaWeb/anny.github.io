@@ -3,10 +3,20 @@ layout: page
 title: About
 permalink: /about/
 ---
- ![perfil](/assets/perfil_.jpg) 
-Rio de Janeiro, 15 de novembro de 2024. 
+<table><tr>
+ <td>
+  ![perfil](/assets/perfil_.jpg) 
+ </td>
+ <td>Rio de Janeiro, 15 de novembro de 2024. 
+Aos meus 30 anos de vida crio este blog para expressar minhas ideias, registrar experiências e quem sabe fazer novas conexões.</td>
+</tr></table>
+
+ <img align="left"> Rio de Janeiro, 15 de novembro de 2024. 
 Aos meus 30 anos de vida crio este blog para expressar minhas ideias, registrar experiências e quem sabe fazer novas conexões.
-[linkedIn](https://www.linkedin.com/in/annysousa/) 
+
+
+
+
 
 
 <b>BACKGROUND</b>
