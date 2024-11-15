@@ -25,3 +25,5 @@ After a lot of research, and having doubts between the Thunder X3 and the DT3 Ne
 
 
 I discovered a promotion on Amazon... and yes for everything!  I fell in love. [This is the link to the new chair](https://amzn.to/4ewnTZs) It was a long day, but 'chair is coming'... 
+
+<div class="tenor-gif-embed" data-postid="14457952604098199169" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/gjirlfriend-gif-14457952604098199169">Gjirlfriend GIF</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
