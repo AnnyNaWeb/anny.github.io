@@ -22,11 +22,10 @@
 title: 'BreaQA'
 email: breaqa@protonmail.ch
 description: >- # this means to ignore newlines until "baseurl:"
- Pause, reflection on the culture and practice of quality assurance in different sizes of game companies. QA, your break is here.
+ Pause, reflection on the culture and practice of quality assurance in different sizes of game companies and business models in gaming products. QA, your break is here.
 baseurl: "/page" # the subpath of your site, e.g. /blog
 url: "https://annysource.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: annysource
-github_username:  annysource
+linkedin_username:  annysousa
 
 markdown: kramdown
 
