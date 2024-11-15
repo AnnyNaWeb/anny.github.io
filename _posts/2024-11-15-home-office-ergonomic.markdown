@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Home Office Ergonomic!"
+title:  "Daily - Home Office Ergonomic"
 date:   2024-11-15 18:30:00 -0300
-categories: first commit
+categories: daily
 ---
 I love working from home, but I have to admit that it requires discipline. I created a separate space at home and when I was happy with the setup, my chair broke.
 
