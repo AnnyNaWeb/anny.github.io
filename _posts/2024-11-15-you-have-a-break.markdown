@@ -13,4 +13,4 @@ If the company has more than one game released, Quality Assurance will probably 
 If it is a very large company, it needs to innovate. It invests in hackathons, buys startups and the role of QA will be that of research and prototyping. Experimenting with new technologies, such as optimizing processes, creating new products. Programming or management skills are stronger.
 
 There are many challenges and I am here to share my experiences and talk about good practices. Do you have a break? Let's talk!
-<a href="https://tenor.com/view/baby-yoda-drink-cute-gif-15711760"><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="15711760" data-share-method="host" data-aspect-ratio="1.50943" data-width="100%"><a href="https://tenor.com/view/baby-yoda-drink-cute-gif-15711760">Baby Yoda Drink GIF</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
