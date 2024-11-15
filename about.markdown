@@ -1,10 +1,12 @@
 ---
-layout: default
+layout: post
 title: About
 permalink: /about/
 ---
 
-Rio de Janeiro, 15 de novembro de 2024. /
+Rio de Janeiro, 15 de novembro de 2024. 
+
+
 Aos meus 30 anos de vida crio este blog para expressar minhas ideias, registrar experiências e quem sabe fazer novas conexões.
 
 ![perfil](/assets/perfil_.jpg)
