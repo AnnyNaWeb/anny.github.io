@@ -7,7 +7,7 @@ permalink: /about/
 Rio de Janeiro, 15 de novembro de 2024. 
 
 
-Aos meus 30 anos de vida crio este blog para expressar minhas ideias, registrar experiências e quem sabe fazer novas conexões.
+Aos meus 30 anos de vida crio este blog para expressar minhas ideias, registrar experiencias e quem sabe fazer novas conexoes.
 
 ![perfil](/assets/perfil_.jpg)
 
