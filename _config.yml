@@ -30,6 +30,8 @@ url: "https://annysource.github.io" # the base hostname & protocol for your site
 twitter_username: annysource
 github_username:  annysource
 
+markdown: kramdown
+
 # Build settings
 theme: minima
 plugins:
