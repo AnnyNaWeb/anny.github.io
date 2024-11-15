@@ -13,7 +13,7 @@ remotely
 - Organization of events such as hackathons, game jams, festivals (big festival, rio indie games, hacking.rio, anima mundi VR space, global
 game jam), speaking and mentoring in the women techmaker google community; award from Globant as Women That Build Rising Start
 Brazil, for creating a collective of women game developers and creation of the Women Game Jam Brazil.[jekyllrb.com](https://jekyllrb.com/)
-![perfil](/assets/perfil_.jpg)
+![perfil](/assets/perfil2.jpg)
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
