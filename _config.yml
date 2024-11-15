@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+a# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -23,7 +23,7 @@ title: 'BreaQA'
 email: breaqa@protonmail.ch
 description: >- # this means to ignore newlines until "baseurl:"
  Pause, reflection on the culture and practice of quality assurance in different sizes of game companies and business models in gaming products. QA, your break is here.
-baseurl: "/page" # the subpath of your site, e.g. /blog
+baseurl: "/breaqa" # the subpath of your site, e.g. /blog
 url: "https://annysource.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username:  annysousa
 
