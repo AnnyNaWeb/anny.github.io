@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Daily - Home Office Ergonomic"
+title:  "Chair Ergonomic [DAILY]"
 date:   2024-11-15 18:30:00 -0300
 categories: daily
 ---
