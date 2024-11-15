@@ -7,8 +7,7 @@ permalink: /about/
  <td>
   ![perfil](/assets/perfil_.jpg) 
  </td>
- <td>Rio de Janeiro, 15 de novembro de 2024. 
-Aos meus 30 anos de vida crio este blog para expressar minhas ideias, registrar experiências e quem sabe fazer novas conexões.</td>
+ <td>Rio de Janeiro, 15 de novembro de 2024. Aos meus 30 anos de vida crio este blog para expressar minhas ideias, registrar experiências e quem sabe fazer novas conexões.</td>
 </tr></table>
 
 
