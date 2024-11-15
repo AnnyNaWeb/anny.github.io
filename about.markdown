@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-<div style="clear: both;">
-  <div style="float: left; margin-right 1em;">
-    ![perfil](/assets/perfil_.jpg)
-  </div>
-  <div>
-    <h2>Rio de Janeiro, November 15, 2024.</h2>
-    <p>At 30 years old, I created this blog to express my ideas, record experiences and, who knows, make new connections.</p>
-  </div>
-</div>
+Rio de Janeiro, November 15, 2024.
+At 30 years old, I created this blog to express my ideas, record experiences and, who knows, make new connections.
 
 
 <b>BACKGROUND</b>
