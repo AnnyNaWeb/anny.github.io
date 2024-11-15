@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
  ![perfil](/assets/perfil_.jpg) 
-
-[linkedIn](https://www.linkedin.com/in/annysousa/) 
 Rio de Janeiro, 15 de novembro de 2024. 
-
-
 Aos meus 30 anos de vida crio este blog para expressar minhas ideias, registrar experiências e quem sabe fazer novas conexões.
+[linkedIn](https://www.linkedin.com/in/annysousa/) 
+
 
 <b>BACKGROUND</b>
 - Criadora e desenvolvedora de jogos desde 2015 e com mais de 5 anos de experiência em Garantia de Qualidade de Jogos e VR/XR/AR, Consoles, Mobile, Instant Games. Tenho experiência na definição dos principais processos de qualidade e KPIs necessários para enviar com sucesso títulos de alta qualidade;
