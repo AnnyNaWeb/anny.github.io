@@ -9,9 +9,7 @@ Rio de Janeiro, 15 de novembro de 2024.
 
 Aos meus 30 anos de vida crio este blog para expressar minhas ideias, registrar experiências e quem sabe fazer novas conexões.
 
-![perfil](/assets/perfil_.jpg)
-
-<b>BACKGROUND</b>
+![perfil](/assets/perfil_.jpg) <b>BACKGROUND</b>
 
 - Criadora e desenvolvedora de jogos desde 2015 e com mais de 5 anos de experiência em Garantia de Qualidade de Jogos e VR/XR/AR, Consoles, Mobile, Instant Games. Tenho experiência na definição dos principais processos de qualidade e KPIs necessários para enviar com sucesso títulos de alta qualidade;
 - Como empreendedora e pesquisadora: levantei fundos do BNDES, Benfeitoria, Programa Startup Rio, FAPERJ e Niantic (empresa de desenvolvimento de Pokémon Go) para criar jogos de realidade aumentada que usam o espaço físico como mecânica principal. Gerenciei 18 funcionários remotamente
