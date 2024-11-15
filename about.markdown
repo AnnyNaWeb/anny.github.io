@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: breaqa
 title: About
 permalink: /about/
 ---
