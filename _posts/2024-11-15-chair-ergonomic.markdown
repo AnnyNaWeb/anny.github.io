@@ -13,7 +13,7 @@ During a checkpoint call, with the camera off (thank God), I slowly fell to the 
 
 After a lot of research, and having doubts between the Thunder X3 and the DT3 Nero and my criteria for choosing the chair:
 
-- Does it have lumbar support?
+- Does it have lower back support?
 
 - Can it support more than 140 kg?
 
