@@ -3,12 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
-<table><tr>
- <td>
-  ![perfil](/assets/perfil_.jpg) 
- </td>
- <td>Rio de Janeiro, 15 de novembro de 2024. Aos meus 30 anos de vida crio este blog para expressar minhas ideias, registrar experiências e quem sabe fazer novas conexões.</td>
-</tr></table>
+
+![perfil](/assets/perfil_.jpg) {: style="float: left"}
+Rio de Janeiro, 15 de novembro de 2024. Aos meus 30 anos de vida crio este blog para expressar minhas ideias, registrar experiências e quem sabe fazer novas conexões.<
+
 
 
 <b>BACKGROUND</b>
