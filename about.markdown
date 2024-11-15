@@ -3,7 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
+ ![perfil](/assets/perfil_.jpg) 
 
+[linkedIn](https://www.linkedin.com/in/annysousa/) 
 Rio de Janeiro, 15 de novembro de 2024. 
 
 
@@ -14,6 +16,4 @@ Aos meus 30 anos de vida crio este blog para expressar minhas ideias, registrar 
 - Como empreendedora e pesquisadora: levantei fundos do BNDES, Benfeitoria, Programa Startup Rio, FAPERJ e Niantic (empresa de desenvolvimento de Pokémon Go) para criar jogos de realidade aumentada que usam o espaço físico como mecânica principal. Gerenciei 18 funcionários remotamente
 - Organização de eventos como hackathons, game jams, festivais (big festival, rio indie games, hacking.rio, anima mundi VR space, global game jam), palestras e mentoria na comunidade women techmaker do Google; prêmio da Globant como Women That Build Rising Start Brazil, pela criação de um coletivo de mulheres desenvolvedoras de jogos e auxílio na organização da Women Game Jam Brazil de 2019 a 2021
 
- ![perfil](/assets/perfil_.jpg) 
 
-[linkedIn](https://www.linkedin.com/in/annysousa/) 
