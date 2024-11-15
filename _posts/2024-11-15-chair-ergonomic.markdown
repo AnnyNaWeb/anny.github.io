@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Chair Ergonomic [DAILY]"
-date:   2024-11-15 18:30:00 -0300
+title:  "[DAILY] Chair Ergonomic"
+date:   2024-11-15 19:14:00 -0300
 categories: daily
 ---
 I love working from home, but I have to admit that it requires discipline. I created a separate space at home and when I was happy with the setup, my chair broke.
