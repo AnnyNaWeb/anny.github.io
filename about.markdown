@@ -4,11 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Rio de Janeiro, November 15, 2024. 
-At 30 years old, I created this blog to express my ideas, record experiences and, who knows, make new connections.
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    ![perfil](/assets/perfil_.jpg)
+  </div>
+  <div>
+    <h2>Rio de Janeiro, November 15, 2024.</h2>
+    <p>At 30 years old, I created this blog to express my ideas, record experiences and, who knows, make new connections.</p>
+  </div>
+</div>
 
 
-![perfil](/assets/perfil_.jpg)
 <b>BACKGROUND</b>
  ▪ Creator and game developer since 2015 and with 5+ years of experience in Game Quality Assurance and VR/XR/AR, Consoles, Mobile, Instant Games. I have experience in defining the main quality processes and KPIs necessary to successfully submit high-quality game titles;
  ▪ As an entrepreneur and researcher: I raised funds from BNDES, Benfeitoria, Program Startup Rio, FAPERJ and Niantic (Pokemon Go
