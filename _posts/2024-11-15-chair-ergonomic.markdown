@@ -3,13 +3,14 @@ layout: post
 title:  "[DAILY] Chair Ergonomic"
 date:   2024-11-15 19:14:00 -0300
 categories: daily
+image: /assets/images/cadeira.jpg
 ---
 I love working from home, but I have to admit that it requires discipline. I created a separate space at home and when I was happy with the setup, my chair broke.
 
 During a checkpoint call, with the camera off (thank God), I slowly fell to the floor. I didn't understand what had happened until I was on the floor. I didn't believe it. I left the call and sent it to the work group.
 
 
-![Images](/assets/images/cadeira.jpg)
+![]({{ page.image | relative_url }})
 
 After a lot of research, and having doubts between the Thunder X3 and the DT3 Nero and my criteria for choosing the chair:
 
