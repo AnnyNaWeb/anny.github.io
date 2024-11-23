@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "How to Implement Session-Based Exploratory Testing in Your Indie Game"
-date:   2024-11-22 21:00:00 -0300
+date:   2024-11-22 21:30:00 
 categories: qa
-image: /assets/images/cadeira.jpg
+
 ---
 Ensuring the quality of an indie game can be challenging, especially with small teams and limited resources. 
 Session-Based Exploratory Testing is a practical solution that combines structure with flexibility to identify 
@@ -56,6 +56,6 @@ After the session, review the findings and determine the next steps:
 
 
 ##Why Use Session-Based Exploratory Testing?
-This method balances the creativity needed to explore a game with the organization required to produce actionable results. It’s ideal for indie studios, allowing you to identify and fix issues efficiently, even with smaller teams.
+This method balances the creativity needed to explore a game with the organization required to produce actionable results. Itâ€™s ideal for indie studios, allowing you to identify and fix issues efficiently, even with smaller teams.
 
 Start implementing these steps in your indie game development today and take your game quality to the next level!
