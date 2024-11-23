@@ -59,3 +59,4 @@ After the session, review the findings and determine the next steps:
 This method balances the creativity needed to explore a game with the organization required to produce actionable results. It’s ideal for indie studios, allowing you to identify and fix issues efficiently, even with smaller teams.
 
 Start implementing these steps in your indie game development today and take your game quality to the next level!
+[Download Example Google Sheets for Copy](https://docs.google.com/spreadsheets/d/e/2PACX-1vTTJw41w8NvFe-GDcNqae8d8sl7Vg3Or1VT3s-7U26CgM-zwDd0Y3VUt60mWa5xNe6VHVpe3VWQ2MlN/pubhtml?gid=1651381126&single=true)
