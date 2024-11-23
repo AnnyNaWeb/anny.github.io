@@ -12,7 +12,7 @@ but it is important to have clear objectives to optimize the time of those respo
 Here's a step-by-step guide to implementing this method in your studio:
 
 
-#Step 1: Plan Your Session (Design)
+# Step 1: Plan Your Session (Design)
 Define the focus of the test session by answering these questions:
 
 - What is the mission?
@@ -23,7 +23,7 @@ Define the focus of the test session by answering these questions:
 - Set a timebox (30 to 90 minutes) to ensure productivity.
 
 
-#Step 2: Execute the Test (Run)
+# Step 2: Execute the Test (Run)
 Follow the established mission while remaining flexible to explore unexpected areas. During the execution:
 
 - Avoid rigid checklists.
@@ -31,7 +31,7 @@ Follow the established mission while remaining flexible to explore unexpected ar
 - Test creatively, simulating the unpredictability of players.
 
 
-#Step 3: Record Observations (Observe)
+# Step 3: Record Observations (Observe)
 Document all findings from the session, including:
 
 - Bugs: Record details about the problem, such as reproduction steps, frequency, and impact.
@@ -40,7 +40,7 @@ Document all findings from the session, including:
 - Expected Behaviors: Identify areas of the game that work as intended, highlighting what was well-executed.
 
 
-#Step 4: Analyze and Learn (Learn)
+# Step 4: Analyze and Learn (Learn)
 After the session, review the findings and determine the next steps:
 
 - Prioritize Fixes: Categorize bugs based on impact and urgency.
@@ -48,14 +48,14 @@ After the session, review the findings and determine the next steps:
 - Share with the Team: Communicate findings to ensure everyone has a clear view of the game's current state.
 
 
-#Additional Tips for Implementation
+# Additional Tips for Implementation
 - Clear Documentation: Use tools like spreadsheets, Notion, or Trello to organize sessions, missions, and findings.
 - Continuous Iteration: Each test session should inform the next, creating a continuous improvement cycle.
 - Fast Feedback: Implement a process to deliver findings to developers quickly, facilitating problem resolution.
 - Diverse Testers: Involve other team members or even external players to gain different perspectives.
 
 
-##Why Use Session-Based Exploratory Testing?
+## Why Use Session-Based Exploratory Testing?
 This method balances the creativity needed to explore a game with the organization required to produce actionable results. It’s ideal for indie studios, allowing you to identify and fix issues efficiently, even with smaller teams.
 
 Start implementing these steps in your indie game development today and take your game quality to the next level!
