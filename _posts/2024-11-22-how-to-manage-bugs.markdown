@@ -38,6 +38,8 @@ Categorizing bugs makes tracking them easier. Here are some common types you’l
 - Performance Issues: Frame drops, slow loading, or crashes.
 - Asset Errors: Missing visuals, sounds, or animations.
 - Localization Bugs: Translation error or text that doesn’t fit properly.
+
+
 Once your bugs are logged and categorized, follow up regularly. Review the list with your team to prioritize fixes and ensure progress. Share issues with clear documentation to avoid miscommunication and delays.
 
 
