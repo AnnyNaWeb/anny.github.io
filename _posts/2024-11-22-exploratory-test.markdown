@@ -3,6 +3,7 @@ layout: post
 title:  "How to Implement Session-Based Exploratory Testing in Your Indie Game"
 date:   2024-11-22 21:30:00 
 categories: qa
+author: Anny Sousa
 
 ---
 Ensuring the quality of an indie game can be challenging, especially with small teams and limited resources. 
