@@ -25,11 +25,10 @@ about each issue. For every bug, record:
 2- Where did it happen? Include steps to reproduce the issue.
 
 3- How severe is it? Classify the bug based on its impact:
-
-	- Critical: Blocks gameplay or causes crashes.
-	- Severe: Affects core mechanics or player experience significantly.
-	- Moderate: Noticeable issues, but gameplay continues.
-	- Minor: Visual or cosmetic errors.
+ - Critical: Blocks gameplay or causes crashes.
+ - Severe: Affects core mechanics or player experience significantly.
+ - Moderate: Noticeable issues, but gameplay continues.
+ - Minor: Visual or cosmetic errors.
 
 
 Categorizing bugs makes tracking them easier. Here are some common types you’ll encounter:
