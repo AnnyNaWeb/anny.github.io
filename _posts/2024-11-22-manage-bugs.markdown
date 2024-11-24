@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Manage Bugs in Your Indie Game Studio"
+title:  "Manage Bugs in Your Indie Game Studio"
 date:   2024-11-24 16:20:00 
 categories: qa
 author: Anny Sousa
