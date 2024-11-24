@@ -21,8 +21,11 @@ The first step is logging bugs. Use a simple tool, like Google Sheets, Notion, C
 about each issue. For every bug, record:
 
 1- What happened? Write a clear description.
+
 2- Where did it happen? Include steps to reproduce the issue.
+
 3- How severe is it? Classify the bug based on its impact:
+
 	- Critical: Blocks gameplay or causes crashes.
 	- Severe: Affects core mechanics or player experience significantly.
 	- Moderate: Noticeable issues, but gameplay continues.
