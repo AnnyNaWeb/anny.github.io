@@ -7,7 +7,7 @@ categories: qa
 ---
 Ensuring the quality of an indie game can be challenging, especially with small teams and limited resources. 
 Session-Based Exploratory Testing is a practical solution that combines structure with flexibility to identify 
-issues and enhance the player's experience. Exploratory testing is not about doing tests without planning. Anyone on the team can do it, 
+issues and to improve the player's experience. Exploratory testing is not about doing tests without planning. Anyone on the team can do it, 
 but it is important to have clear objectives to optimize the time of those responsible for the activity. 
 Here's a step-by-step guide to implementing this method in your studio:
 
@@ -15,12 +15,9 @@ Here's a step-by-step guide to implementing this method in your studio:
 # Step 1: Plan Your Session (Design)
 Define the focus of the test session by answering these questions:
 
-- What is the mission?
-- Example: "Test the responsiveness of controls in level 1."
-- What is the scope?
-- Determine what will be explored, such as a specific functionality, a game area, or AI behavior.
-- How much time will you dedicate?
-- Set a timebox (30 to 90 minutes) to ensure productivity.
+- What is the mission? Example: "Test the responsiveness of controls in level 1."
+- What is the scope? Determine what will be explored, such as a specific functionality, a game area, or AI behavior.
+- How much time will you dedicate? Set a timebox (30 to 90 minutes) to ensure productivity.
 
 
 # Step 2: Execute the Test (Run)
@@ -34,8 +31,7 @@ Follow the established mission while remaining flexible to explore unexpected ar
 # Step 3: Record Observations (Observe)
 Document all findings from the session, including:
 
-- Bugs: Record details about the problem, such as reproduction steps, frequency, and impact.
-- Example: "The character passes through walls when using the dash ability in level 2."
+- Bugs: Record details about the problem, such as reproduction steps, frequency, and impact. Example: "The character passes through walls when using the dash ability in level 2."
 - Inconsistencies: Note discrepancies in the interface, NPC behavior, or performance issues.
 - Expected Behaviors: Identify areas of the game that work as intended, highlighting what was well-executed.
 
