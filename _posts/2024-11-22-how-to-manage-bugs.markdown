@@ -4,14 +4,16 @@ title:  "How to Manage Bugs in Your Indie Game Studio"
 date:   2024-11-24 16:20:00 
 categories: qa
 author: Anny Sousa
+
 ---
-If you’re starting an indie game studio, managing bugs might not be the first thing on your mind. 
+
+If youâ€™re starting an indie game studio, managing bugs might not be the first thing on your mind. 
 But without a process, bugs can pile up, wasting time, delaying your release, and hurting the quality of your game. 
-Setting up a basic bug management system will help you organize, prioritize, and fix issues efficiently—even if 
-you’re just getting started, whether you have QA on your team or not.
+Setting up a basic bug management system will help you organize, prioritize, and fix issues efficientlyâ€”even if 
+youâ€™re just getting started, whether you have QA on your team or not.
 
 
-Bugs don’t just appear out of nowhere. They start with a mistake—a human error during development. 
+Bugs donâ€™t just appear out of nowhere. They start with a mistakeâ€”a human error during development. 
 That mistake introduces a defect, which is a mismatch between what was expected and what was produced. 
 When this defect impacts the player, it becomes a failure. Understanding this lifecycle helps you focus on where to act.
 
@@ -27,22 +29,22 @@ about each issue. For every bug, record:
 	- Minor: Visual or cosmetic errors.
 
 
-Categorizing bugs makes tracking them easier. Here are some common types you’ll encounter:
+Categorizing bugs makes tracking them easier. Here are some common types youâ€™ll encounter:
 
-- Functional Bugs: Gameplay features not working as intended (e.g., a character can’t jump).
+- Functional Bugs: Gameplay features not working as intended (e.g., a character canâ€™t jump).
 - Usability Problems: Menus or controls that confuse players.
 - Performance Issues: Frame drops, slow loading, or crashes.
 - Asset Errors: Missing visuals, sounds, or animations.
-- Localization Bugs: Translation mistakes or text that doesn’t fit properly.
+- Localization Bugs: Translation mistakes or text that doesnâ€™t fit properly.
 - Once your bugs are logged and categorized, follow up regularly. 
 - Review the list with your team to prioritize fixes and ensure progress. 
 - Share issues with clear documentation to avoid miscommunication and delays.
 
 
 #Why Does This Matter?
-Managing bugs isn’t just about fixing problems; 
-it’s about understanding their nature and impact. A solid process helps you predict how long fixes will take, 
-optimize your team’s time, and avoid surprises during the final stretch of development.
+Managing bugs isnâ€™t just about fixing problems; 
+itâ€™s about understanding their nature and impact. A solid process helps you predict how long fixes will take, 
+optimize your teamâ€™s time, and avoid surprises during the final stretch of development.
 
 Even a simple system can make a big difference. Start small, document clearly, and check in consistently. 
 Every bug you fix brings you closer to delivering a polished, successful game.
