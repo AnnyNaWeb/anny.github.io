@@ -3,6 +3,7 @@ layout: post
 title:  "You have a BreaQA!"
 date:   2024-11-15 17:30:00 -0300
 categories: first commit
+author: Anny Sousa
 ---
 The other day a friend had the opportunity to take on a QA freelance job and asked me for tips. Depending on the size of the company, the quality culture is different. Startups usually have limited time and scope, and need to launch the game before the money runs out. They see QA as a "moment", and leave it for the end as a "polishing" or testing stage, or a store checklist. 
 
