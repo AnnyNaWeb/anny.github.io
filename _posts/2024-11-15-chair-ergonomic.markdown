@@ -4,6 +4,7 @@ title:  "[DAILY] Chair Ergonomic"
 date:   2024-11-15 19:14:00 -0300
 categories: daily
 image: /assets/images/cadeira.jpg
+author: Anny Sousa
 ---
 I love working from home, but I have to admit that it requires discipline. I created a separate space at home and when I was happy with the setup, my chair broke.
 
