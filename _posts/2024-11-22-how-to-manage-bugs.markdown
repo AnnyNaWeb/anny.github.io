@@ -8,7 +8,7 @@ author: Anny Sousa
 ---
 
 If you’re starting an indie game studio, managing bugs might not be the first thing on your mind. 
-But without a process, bugs can pile up, wasting time, delaying your release, and hurting the quality of your game. 
+But without a process, bugs can stuff, lose one's time, delaying your release, it makes your game bad. 
 Setting up a basic bug management system will help you organize, prioritize, and fix issues efficiently—even if 
 you’re just getting started, whether you have QA on your team or not.
 
