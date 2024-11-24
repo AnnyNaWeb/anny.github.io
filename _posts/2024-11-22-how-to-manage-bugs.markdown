@@ -43,7 +43,7 @@ Categorizing bugs makes tracking them easier. Here are some common types you’l
 Once your bugs are logged and categorized, follow up regularly. Review the list with your team to prioritize fixes and ensure progress. Share issues with clear documentation to avoid miscommunication and delays.
 
 
-#Why Does This Matter?
+# Why Does This Matter?
 Managing bugs isn’t just about fixing problems; 
 it’s about understanding their nature and impact. A solid process helps you predict how long fixes will take, 
 optimize your team’s time, and avoid surprises during the final stretch of development.
