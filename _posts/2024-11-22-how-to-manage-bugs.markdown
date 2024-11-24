@@ -48,3 +48,5 @@ optimize your team’s time, and avoid surprises during the final stretch of dev
 
 Even a simple system can make a big difference. Start small, document clearly, and check in consistently. 
 Every bug you fix brings you closer to delivering a polished, successful game.
+
+Since you've read this far, I'm sharing with you a Trello board I used a lot when testing games from indie studios that didn't have a defect management process -> [Copy this board no Trello](https://trello.com/b/j8CpSTCz/qa-exemplo)
